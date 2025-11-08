@@ -7,32 +7,6 @@ El análisis se basó en métricas clave como ingresos totales, calificaciones p
 
 El trabajo forma parte del desafío propuesto para aplicar técnicas de análisis de datos, visualización y toma de decisiones empresariales basadas en evidencia.
 
----
-
-## 🧱 Estructura del proyecto
-
-El repositorio se organiza de la siguiente manera:
-
-```
-📂 Alura_Store_Analisis/
-│
-├── 📘 Alura_Store_Analisis.ipynb   # Notebook principal (Google Colab o Jupyter)
-├── 📄 informe_final_tiendas.pdf    # Informe final con la conclusión del análisis
-├── 📊 datasets/
-│   ├── ventas.csv                 # Datos de ventas y transacciones
-│   ├── clientes.csv               # Datos de clientes (si aplica)
-│   └── productos.csv              # Información de productos y categorías
-│
-├── 📈 imagenes/
-│   ├── ingresos_por_tienda.png
-│   ├── calificaciones_por_tienda.png
-│   ├── productos_mas_vendidos.png
-│   └── costos_envio_promedio.png
-│
-└── README.md                      # Este archivo
-```
-
----
 
 ## 📈 Gráficos y *insights* destacados
 
@@ -60,7 +34,7 @@ Durante el análisis se generaron diversos gráficos para comprender el rendimie
 
 ---
 
-### 🔹 Coste de envío promedio
+### 🔹 Costo de envío promedio
 | Tienda | Envío promedio (pesos) |
 |--------|-------------------------|
 | Tienda 1 | 26,018.61 |
@@ -116,7 +90,7 @@ En Google Colab no es necesario instalar manualmente, solo subir los datasets a 
 
 ### 3. Ejecutar el notebook
 
-Abre el archivo `Alura_Store_Analisis.ipynb` en Jupyter o Colab y ejecuta las celdas en orden.  
+Abre el archivo `AluraStoreLatam.ipynb` en Jupyter o Colab y ejecuta las celdas en orden.  
 El notebook generará automáticamente los gráficos y métricas utilizadas en el informe.
 
 ### 4. Revisar resultados
